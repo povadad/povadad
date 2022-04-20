@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @povadad
-- 👀 I’m interested in almost all.
+- 👀 I’m interested in almost all, except psychology
 - 🌱 I’m currently learning cross-platform software (mostly on Qt framework)
 - 💞️ I’m looking to collaborate on SpaceX
 - 📫 How to reach me povad_ad@atomtex.com
